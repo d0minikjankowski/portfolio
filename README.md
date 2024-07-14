@@ -9,13 +9,14 @@ My name is Dominik Jankowski, I have been a software tester since December 2019.
 3. [Jira](https://www.atlassian.com/pl/software/jira)
 4. [Xmind](https://xmind.app/)
 5. [SelectorsHub](https://selectorshub.com/)
-6. [Monday](https://monday.com/lang/pl)
-7. [Data Dog](https://www.datadoghq.com/)
-8. [Grafana](https://grafana.com/)
-9. Hyper-V
-10. [VMware V-center](https://www.vmware.com/products/vcenter.html)
-11. [Loom](https://www.loom.com/)
-12. [Visual Studio Code](https://code.visualstudio.com/)
+6. [LaunchDarkly](https://launchdarkly.com/)
+7. [Monday](https://monday.com/lang/pl)
+8. [Data Dog](https://www.datadoghq.com/)
+9. [Grafana](https://grafana.com/)
+10. Hyper-V
+11. [VMware V-center](https://www.vmware.com/products/vcenter.html)
+12. [Loom](https://www.loom.com/)
+13. [Visual Studio Code](https://code.visualstudio.com/)
 
 # Tech Skills
 1. Testing (sic!)
@@ -34,3 +35,8 @@ My name is Dominik Jankowski, I have been a software tester since December 2019.
 # Books
 1. R. Smiglin "Zawód tester"
 2. R. Podraza "Rekrutacja QA, 100 pytań i odpowiedzi rekrutacyjnych z testowania"
+
+# Example of bug report
+
+# Examples of test cases
+1. [BDD - create an admin account in the app](https://docs.google.com/document/d/1UVNGIz7ROMlM-CtfxMTtDgXm6a-akrgMCYdNQWU-_o8/edit?usp=sharing)
