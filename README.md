@@ -33,8 +33,8 @@ My name is Dominik Jankowski, I have been a software tester since December 2019.
 3. [Selenium IDE - Podstawy Automatyzacji + lokatory WebDriver](https://www.udemy.com/certificate/UC-IBNMPXF3/)
 
 # Books
-1. R. Smiglin "Zawód tester"
-2. R. Podraza "Rekrutacja QA, 100 pytań i odpowiedzi rekrutacyjnych z testowania"
+1. [R. Smiglin "Zawód tester"](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
+2. [R. Podraza "Rekrutacja QA, 100 pytań i odpowiedzi rekrutacyjnych z testowania"](https://lubimyczytac.pl/ksiazka/5101808/pytania-i-odpowiedzi-rekrutacyjne)
 
 # Example of bug report
 1. [Jira bug report - can't create, edit or delete an account](https://docs.google.com/document/d/1xXDyeq2gOgyY6CcQe2SDCQFXx8lPeIuQ3qxOSqDVgCo/edit?usp=sharing)
