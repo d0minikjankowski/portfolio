@@ -13,7 +13,7 @@ My name is Dominik Jankowski, I have been a software tester since December 2019.
 7. [Monday](https://monday.com/lang/pl)
 8. [Data Dog](https://www.datadoghq.com/)
 9. [Grafana](https://grafana.com/)
-10. Hyper-V
+10. [Hyper-V](https://en.wikipedia.org/wiki/Hyper-V)
 11. [VMware V-center](https://www.vmware.com/products/vcenter.html)
 12. [Loom](https://www.loom.com/)
 13. [Visual Studio Code](https://code.visualstudio.com/)
