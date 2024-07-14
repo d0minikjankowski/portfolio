@@ -39,5 +39,5 @@ My name is Dominik Jankowski, I have been a software tester since December 2019.
 # Example of bug report
 1. [Jira bug report - can't create, edit or delete an account](https://docs.google.com/document/d/1xXDyeq2gOgyY6CcQe2SDCQFXx8lPeIuQ3qxOSqDVgCo/edit?usp=sharing)
 
-# Examples of test cases
+# Example of test cases
 1. [BDD - create an admin account in the app](https://docs.google.com/document/d/1UVNGIz7ROMlM-CtfxMTtDgXm6a-akrgMCYdNQWU-_o8/edit?usp=sharing)
