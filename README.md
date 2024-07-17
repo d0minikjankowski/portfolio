@@ -27,6 +27,9 @@ My name is Dominik Jankowski, I have been a software tester since December 2019.
 6. GIT
 7. Linux, Windows, MacOS
 
+# Automation
+1. (saucedemo automation Cypress)[https://github.com/d0minikjankowski/cypressPortfolio]
+
 # Courses + certificates
 1. [Cypress od podstaw - automatyzacja testów](https://www.udemy.com/certificate/UC-ad550457-7515-44fa-bec6-33df0a2b1183/)
 2. [Kurs Protractor](https://www.udemy.com/certificate/UC-35431715-5f51-490d-8692-f9737ba896a7/)
